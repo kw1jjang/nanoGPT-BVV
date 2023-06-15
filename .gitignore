@@ -6,3 +6,4 @@ __pycache__/
 *.bin
 *.pkl
 *.pyc
+*.pt
