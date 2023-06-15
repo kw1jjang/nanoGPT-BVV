@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT, but for Barry Van Veen
 
 ![nanoGPT](assets/nanogpt.jpg)
 
